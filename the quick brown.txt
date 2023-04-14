@@ -1,7 +1,1 @@
 1.the quick brown fox jumps over the lazy dog
-
-<<<<<<< HEAD
-pacleb rainiel 
-=======
-Steve edit 
->>>>>>> 037a180ff061f288d21704fe67b7969cff6236b7
